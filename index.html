@@ -1,10 +1,337 @@
+```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Phat Dev</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Đinh Tấn Phát | Mobile App Developer</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background:#0d1117;
+    color:#fff;
+}
+
+header{
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    padding:20px 8%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:rgba(13,17,23,.8);
+    backdrop-filter:blur(10px);
+    z-index:1000;
+}
+
+.logo{
+    font-size:28px;
+    font-weight:700;
+    color:#58a6ff;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:25px;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#58a6ff;
+}
+
+.hero{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:120px 8%;
+}
+
+.hero-content{
+    max-width:700px;
+}
+
+.hero h1{
+    font-size:60px;
+    margin-bottom:10px;
+}
+
+.hero h2{
+    color:#58a6ff;
+    margin-bottom:20px;
+}
+
+.hero p{
+    line-height:1.8;
+    color:#c9d1d9;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:35px;
+    padding:14px 32px;
+    background:#238636;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.btn:hover{
+    background:#2ea043;
+}
+
+section{
+    padding:90px 8%;
+}
+
+.title{
+    text-align:center;
+    font-size:36px;
+    margin-bottom:50px;
+    color:#58a6ff;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:25px;
+}
+
+.card{
+    background:#161b22;
+    padding:30px;
+    border-radius:15px;
+    transition:.3s;
+    border:1px solid #30363d;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+.card h3{
+    margin-bottom:15px;
+}
+
+.card p{
+    color:#c9d1d9;
+    line-height:1.7;
+}
+
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+}
+
+.skill{
+    background:#21262d;
+    padding:12px 20px;
+    border-radius:30px;
+    border:1px solid #30363d;
+}
+
+footer{
+    text-align:center;
+    padding:40px;
+    color:#8b949e;
+    border-top:1px solid #30363d;
+}
+
+@media(max-width:768px){
+
+.hero h1{
+    font-size:40px;
+}
+
+nav{
+    display:none;
+}
+
+}
+</style>
+
 </head>
+
 <body>
-  <h1>Xin chào, tôi là Developer</h1>
-  <p>Đây là portfolio của tôi</p>
+
+<header>
+
+<div class="logo">DTP.dev</div>
+
+<nav>
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#skills">Skills</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>Hi, I'm Đinh Tấn Phát</h1>
+
+<h2>Mobile Application Developer</h2>
+
+<p>
+I am passionate about building modern Android applications and software solutions.
+My interests include Android development with Java and Kotlin, IoT integration,
+camera applications, automation systems, and backend development.
+This website showcases my projects, technical skills, and learning journey.
+</p>
+
+<a class="btn" href="#projects">
+View My Projects
+</a>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2 class="title">About Me</h2>
+
+<div class="card">
+
+<p>
+I enjoy developing mobile applications that solve real-world problems.
+My experience includes Android application development, REST APIs, Firebase,
+SQLite, Camera SDK integration, IoT systems using ESP32, and Java desktop applications.
+I continuously learn new technologies to improve software quality and user experience.
+</p>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2 class="title">Featured Projects</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>📱 Android Camera App</h3>
+<p>
+Android application for camera control, image capture, and gallery management.
+</p>
+</div>
+
+<div class="card">
+<h3>📸 Photo Booth System</h3>
+<p>
+A desktop and web-based photo booth supporting countdown, QR download,
+printing, and DSLR camera integration.
+</p>
+</div>
+
+<div class="card">
+<h3>🏠 Smart Home IoT</h3>
+<p>
+ESP32-based smart home system using MQTT, REST APIs, sensors,
+and remote device control.
+</p>
+</div>
+
+<div class="card">
+<h3>🎮 Escape Room Controller</h3>
+<p>
+Automation software for escape room games using Arduino, Modbus TCP,
+music, lighting, and puzzle control.
+</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="skills">
+
+<h2 class="title">Technical Skills</h2>
+
+<div class="skills">
+
+<div class="skill">Android Studio</div>
+
+<div class="skill">Java</div>
+
+<div class="skill">Kotlin</div>
+
+<div class="skill">Firebase</div>
+
+<div class="skill">SQLite</div>
+
+<div class="skill">REST API</div>
+
+<div class="skill">ESP32</div>
+
+<div class="skill">Arduino</div>
+
+<div class="skill">Git & GitHub</div>
+
+<div class="skill">HTML</div>
+
+<div class="skill">CSS</div>
+
+<div class="skill">JavaScript</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2 class="title">Contact</h2>
+
+<div class="card">
+
+<h3>Email</h3>
+
+<p>
+phatdinh265@gmail.com
+</p>
+
+<br>
+
+<h3>GitHub</h3>
+
+<p>
+https://github.com/phatdinh
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+© 2026 Đinh Tấn Phát • Mobile Application Developer
+
+</footer>
+
 </body>
 </html>
+```
