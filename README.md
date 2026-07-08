@@ -1,52 +1,65 @@
-# Hi there 👋, I'm Đinh Tấn Phát
+<div align="center">
 
-## Mobile Application Developer | Android Developer | IoT Enthusiast
+# 👋 Hi, I'm Đinh Tấn Phát
 
-I'm passionate about building mobile applications and software solutions that solve real-world problems. I enjoy working with Android, Java, Kotlin, IoT systems, and modern web technologies.
+### Mobile Application Developer • Android Developer • IoT Enthusiast
 
----
+<p>
+Building modern Android applications, IoT solutions, and software that solves real-world problems.
+</p>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Mobile+Application+Developer;Android+Developer;Java+%7C+Kotlin+Developer;IoT+Enthusiast;Always+Learning+New+Technologies" />
 
-- 📱 Mobile Application Developer
-- 💻 Android Development with Java & Kotlin
-- 🔥 Firebase & REST API Integration
-- 📷 Camera SDK & Photo Booth Systems
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- 🤖 IoT & Embedded Systems (ESP32, Arduino)
-- 🛠 Desktop Application Development (Java)
-- 📚 Always learning new technologies
+</div>
 
 ---
 
-## 💡 Technical Skills
+# 🚀 About Me
 
-### Mobile Development
-- Android Studio
-- Java
-- Kotlin
-- XML
-- Jetpack Components
-- Firebase
-- SQLite
+🎓 Mobile Application Developer passionate about building useful software.
 
-### Backend
-- REST API
-- Flask
-- Python
-- Java
+I specialize in:
 
-### Web
-- HTML5
-- CSS3
-- JavaScript
+- 📱 Android Application Development
+- ☕ Java & Kotlin
+- 🔥 Firebase & REST APIs
+- 📷 Camera SDK Integration
+- 🌐 Web Development
+- 🤖 IoT Systems (ESP32 & Arduino)
+- 💻 Desktop Applications
+- ⚙️ Software Automation
 
-### Database
-- SQLite
-- MySQL
-- Firebase Firestore
+I enjoy creating applications that combine software and hardware to solve practical problems.
 
-### IoT & Hardware
+---
+
+# 💻 Tech Stack
+
+## Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+## Database
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+
+## Web
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## IoT
+
 - ESP32
 - Arduino
 - MQTT
@@ -54,101 +67,128 @@ I'm passionate about building mobile applications and software solutions that so
 - RFID
 - Relay Control
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- IntelliJ IDEA
+---
+
+# 📂 Featured Projects
+
+## 📸 Photo Booth System
+
+Professional DSLR Photo Booth System
+
+✔ DSLR Camera Integration
+
+✔ Live Preview
+
+✔ Countdown Capture
+
+✔ QR Code Download
+
+✔ Automatic Printing
+
+✔ GIF Generation
+
+✔ Custom Photo Frames
 
 ---
 
-## 📂 Featured Projects
+## 📱 Android Camera Application
 
-### 📸 Photo Booth System
-
-A professional photo booth application featuring:
-
-- DSLR Camera Integration
-- Live Preview
-- Countdown Capture
-- QR Code Download
-- Automatic Printing
-- GIF Generation
-- Custom Photo Frames
-
----
-
-### 📱 Android Camera Application
-
-An Android application for camera management including:
+Modern Android application with:
 
 - Camera Control
-- Image Capture
-- Gallery
-- Storage Management
-- Modern Material Design
+- Gallery Management
+- Image Processing
+- Local Storage
+- Material Design UI
 
 ---
 
-### 🏠 Smart Home IoT
+## 🏠 Smart Home IoT
 
-IoT-based smart home system using:
+An IoT platform featuring:
 
 - ESP32
 - MQTT
 - REST API
-- Temperature & Humidity Monitoring
+- Sensor Monitoring
 - Remote Device Control
 
 ---
 
-### 🎮 Escape Room Controller
+## 🎮 Escape Room Automation
 
-Automation software for escape room games featuring:
+Software for controlling escape room games.
 
-- Arduino Integration
+Features include:
+
+- Arduino Communication
+- Puzzle Management
+- RFID
 - Modbus TCP
-- Puzzle Controller
-- Audio & Lighting Control
-- RFID System
+- Audio & Lighting Controller
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Jetpack Compose
-- Flutter
+
 - Clean Architecture
+
 - MVVM
+
 - Docker
+
 - CI/CD
+
+- Flutter
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinhtanphatdevtool&show_icons=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dinhtanphatdevtool&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtanphatdevtool&layout=compact&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtanphatdevtool&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Contact
+# 🏆 GitHub Trophies
 
-- 📧 Email: **phatdinh265@gmail.com**
-- 💻 GitHub: https://github.com/dinhtanphatdevtool
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=dinhtanphatdevtool&theme=onedark&no-frame=true&row=1&column=6"/>
 
-## 💬 Quote
-
-> "Code. Learn. Build. Improve."
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile!
+# 📫 Contact
+
+📧 **Email**
+
+phatdinh265@gmail.com
+
+🐙 **GitHub**
+
+https://github.com/dinhtanphatdevtool
+
+🌐 **Portfolio**
+
+https://phatdinh.is-a.dev *(available after domain approval)*
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"Code with purpose. Learn continuously. Build solutions that matter."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
